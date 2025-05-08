@@ -5,9 +5,13 @@ El objetivo de esta aplicación es  crear código reutilizable, estructurado y c
 ## Librerias utilizadas
 ```
 go_router
+flutter_dotenv
 ```
 > Para intalar las dependencias del proyecto ejecutar: ```flutter pub get```
 
+## Dev
+1. Copiar el .env.template y renombrarlo a .env
+2. Cambiar las variables de entorno (The MovieDB)
 ## Desarrollo de la aplicación
 
 ### Primera parte
