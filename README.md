@@ -35,6 +35,13 @@ El objetivo de la sección es poder establecer los cimientos ordenados de nuestr
 
 ### Segunda parte
 
+- Consultas a TheMovieDB para obtener:
+    - Películas populares
+    - Películas en cines
+    - Películas mejor calificadas
+    - Películas que próximamente estarán en cines
+- Scroll horizontal infinito
+- Slivers
 
 ### Tercera parte
 
