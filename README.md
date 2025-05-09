@@ -8,6 +8,8 @@ go_router
 flutter_dotenv
 dio
 flutter_riverpod
+card_swiper
+animate_do
 ```
 > Para intalar las dependencias del proyecto ejecutar: ```flutter pub get```
 
