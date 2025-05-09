@@ -7,6 +7,7 @@ El objetivo de esta aplicación es  crear código reutilizable, estructurado y c
 go_router
 flutter_dotenv
 dio
+flutter_riverpod
 ```
 > Para intalar las dependencias del proyecto ejecutar: ```flutter pub get```
 
