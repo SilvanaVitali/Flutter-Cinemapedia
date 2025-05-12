@@ -10,6 +10,7 @@ dio
 flutter_riverpod
 card_swiper
 animate_do
+intl
 ```
 > Para intalar las dependencias del proyecto ejecutar: ```flutter pub get```
 
