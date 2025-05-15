@@ -48,6 +48,7 @@ El objetivo de la sección es poder establecer los cimientos ordenados de nuestr
 
 ### Tercera parte
 
+Esta sección está dedicada al diseño de la pantalla de película de forma individual, contempla pasar parámetros, loaders y slivers.
 
 ## Screenshot
 <p align="center">
