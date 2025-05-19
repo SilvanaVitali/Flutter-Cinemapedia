@@ -50,6 +50,20 @@ El objetivo de la sección es poder establecer los cimientos ordenados de nuestr
 
 Esta sección está dedicada al diseño de la pantalla de película de forma individual, contempla pasar parámetros, loaders y slivers.
 
+### Cuarta parte
+
+En esta sección se añade un motor de búsqueda completo y robusto para que nuestros usuarios puedan buscar sus películas ahí y preservar búsquedas anteriores para mejorar el rendimiento del mismo.
+
+- SearchDelegate
+- Datasources
+- Repositorios
+- Búsquedas contra TheMovieDB
+- Debouncer
+- Streams
+- Builders
+- DRY
+- Providers
+
 ## Screenshot
 <p align="center">
 <h3>Home</h3>

@@ -20,7 +20,10 @@ class MovieMapper {
             ? 'https://image.tmdb.org/t/p/w500/${moviedb.posterPath}'
             // : 'https://linnea.com.ar/wp-content/uploads/2018/09/404PosterNotFound.jpg',
             : 'no-poster',
-    releaseDate: moviedb.releaseDate,
+    releaseDate:
+        (moviedb.releaseDate == '' || moviedb.releaseDate != null)
+            ? moviedb.releaseDate
+            : DateTime.now(),
     title: moviedb.title,
     video: moviedb.video,
     voteAverage: moviedb.voteAverage,
@@ -43,7 +46,10 @@ class MovieMapper {
         (moviedb.posterPath != '')
             ? 'https://image.tmdb.org/t/p/w500/${moviedb.posterPath}'
             : 'https://linnea.com.ar/wp-content/uploads/2018/09/404PosterNotFound.jpg',
-    releaseDate: moviedb.releaseDate,
+    releaseDate:
+        (moviedb.releaseDate == '' || moviedb.releaseDate != null)
+            ? moviedb.releaseDate
+            : DateTime.now(),
     title: moviedb.title,
     video: moviedb.video,
     voteAverage: moviedb.voteAverage,
