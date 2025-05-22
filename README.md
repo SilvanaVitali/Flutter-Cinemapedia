@@ -64,6 +64,16 @@ En esta sección se añade un motor de búsqueda completo y robusto para que nue
 - DRY
 - Providers
 
+### Quinta parte
+
+Esta sección es muy importante para trabajar con bases de datos locales, principalmente trabajaremos con Isar database, la cual es muy poderosa y fácil de configurar.
+
+- Realizar queries
+- Almacenar en base de datos
+- Leer, insertar y borrar
+- FutureProvider de Riverpod
+
+
 ## Screenshot
 <p align="center">
 <h3>Home</h3>
