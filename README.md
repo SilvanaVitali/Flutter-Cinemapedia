@@ -15,6 +15,7 @@ isar
 isar_flutter_libs
 isar_generator      # dev
 build_runner        # dev
+path_provider
 
 ```
 > Para intalar las dependencias del proyecto ejecutar: ```flutter pub get```
